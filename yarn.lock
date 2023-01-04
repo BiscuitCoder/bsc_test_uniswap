@@ -14514,6 +14514,19 @@ unique-slug@^2.0.0:
   dependencies:
     imurmurhash "^0.1.4"
 
+uniswap_bsc_test_sdk@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/uniswap_bsc_test_sdk/-/uniswap_bsc_test_sdk-1.0.0.tgz#19b2a3aed91ef66f5e1f4e23aca3f0d640270c58"
+  integrity sha512-LYw0oW91ZDoAj0Ar55l+KniONlSRyyxORe740RHLZa4BduThnuxxdwiFtM23JlWkpH5jBSUypAIN21/QR2HkVQ==
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 universalify@^0.1.0:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-0.1.2.tgz#b646f69be3942dabcecc9d6639c80dc105efaa66"
